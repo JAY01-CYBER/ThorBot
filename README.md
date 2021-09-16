@@ -2,7 +2,7 @@
 <b> MYSTERIOS BOT</b>
 </h1>
 
-[![MYSTERIOUSBOT](https://telegra.ph/file/c2d5f8f0d0f2fc84ac87a.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![MYSTERIOUSBOT](https://telegra.ph/file/c2d5f8f0d0f2fc84ac87a.jpg)](https://github.com/LEGEND-OS/MYSTERIOUSUSERBOT)
 
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 <h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ 𝕷êgèñd𝕭øt ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/LEGEND-OS/MYSTERIOUSUSERBOT">⚡ 𝕷êgèñd𝕭øt ⚡</a></h2>
 
 ------------
 # Do U Face Any Problem Contact me Through Telegram 
