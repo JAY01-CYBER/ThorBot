@@ -2,7 +2,7 @@
 <b> ✞︎tß Lêɠêɳ̃dẞø†</b>
 </h1>
 
-[![MYSTERIOUSBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![MYSTERIOUSBOT](https://telegra.ph/file/c2d5f8f0d0f2fc84ac87a.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 <p align="center">
