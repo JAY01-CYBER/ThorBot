@@ -1,5 +1,5 @@
 #Repo Clonning ⚡♥️
-RUN git clone https://github.com/LEGEND-OS/MYSTERIOUSUSERBOT.git /root/userbot
+RUN git clone https://github.com/MYSTERIOUS-OS/MYSTERIOUSUSERBOT.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot

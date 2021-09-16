@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/MYSTERIOUSBOT/",
-  "website": "https://github.com/LEGEND-OS/MYSTERIOUSBOT/",
+  "repository": "https://github.com/MYSTERIOUS-OS/MYSTERIOUSBOT/",
+  "website": "https://github.com/MYSTERIOUS-OS/MYSTERIOUSBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
