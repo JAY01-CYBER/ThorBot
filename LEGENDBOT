@@ -3,10 +3,10 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    if [[ $LEGEND_REPO == "MYSTERIOUSBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    elif [[ $LEGEND_REPO == "MYSTERIOUSBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $LEGEND_REPO =~ $regex ]]
@@ -25,7 +25,7 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="LEGENDBOT.zip"
+    zippath="MYSTERIOUSBOT.zip"
     echo "  Downloading LegendBot V2.O Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
@@ -38,7 +38,7 @@ _set_bot () {
     cd $LEGENDPATH
     echo "    ⚜️Starting Lêɠêɳ̃dẞø†⚜️     "
     echo "
-    LEGENDBOT
+    MYSTERIOUSBOT
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt

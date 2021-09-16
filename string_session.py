@@ -15,8 +15,8 @@ Legend = """
 logo = """
 """
 bhai_bolte = """
-#Legendary LEGENDBOT          
-Made With Love By Team LEGENDBOT
+#Legendary MYSTERIOUSBOT          
+Made With Love By Team MYSTERIOUSBOT
 """
                                                                                                             
 print("")
@@ -26,7 +26,7 @@ print(Style.BRIGHT + Fore.BLUE + logo)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.CYAN + Back.BLUE + bhai_bolte)
 print(Style.RESET_ALL)
-print("""Welcome To LEGENDBOT String Generator By @LEGENDOwner""")
+print("""Welcome To MYSTERIOUSBOT String Generator By @LEGENDOwner""")
 print("""Kindly Enter Your Details To Continue ! """)
 
 API_KEY = input("API_KEY: ")
@@ -44,7 +44,7 @@ while True:
             )
 
             print(
-                "Thanks for Choosing LEGENDBOT Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing MYSTERIOUSBOT Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
