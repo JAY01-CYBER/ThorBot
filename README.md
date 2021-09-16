@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> ✞︎tß Lêɠêɳ̃dẞø†</b>
+<b> MYSTERIOS BOT</b>
 </h1>
 
 [![MYSTERIOUSBOT](https://telegra.ph/file/c2d5f8f0d0f2fc84ac87a.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
