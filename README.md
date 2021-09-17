@@ -63,7 +63,7 @@
 
 <h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/MYSTERIOUS-OS/MYSTERIOUSUSERBOT">⚡ 𝕷êgèñd𝕭øt ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/MYSTERIOUS-OS/MYSTERIOUSUSERBOT">⚡ MYSTERIOUSBOT ⚡</a></h2>
 
 ------------
 # Do U Face Any Problem Contact me Through Telegram 
