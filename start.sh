@@ -2,6 +2,6 @@
 echo """
 
 Legendary MYSTERIOUSBOT
-@Legend_Userbot
+@MYSTERIOUS_EMPIRE
 """
 python3 string_session.py
