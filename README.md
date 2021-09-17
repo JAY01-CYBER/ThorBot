@@ -68,12 +68,12 @@
 ------------
 # Do U Face Any Problem Contact me Through Telegram 
 
-<a href="https://t.me/joinchat/MYSTERIOUS_EMPIRE"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MYSTERIOUS_EMPIRE"><img src="https://img.shields.io/badge/Mysterious%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/joinchat/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/joinchat/Legend_Mr_Hacker)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/MY5T3R10U5_X)
 
 
 <details>
@@ -110,4 +110,4 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
   <summary> • 💡 CREDITS 💞 • </summary>
   
-• [LEGEND](https://github.com/MYSTERIOUS-OS)
+• [LEGEND](https://github.com/LEGEND-OS)
