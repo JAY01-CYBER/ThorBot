@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "✞︎tß MysteriousBoy 🇮🇳",
+      "value": "MysteriousBoy 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
@@ -126,8 +126,8 @@
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
-    "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/MYSTERIOUSBOT#main.py ",
+    "MYSTERIOUS_STRING": {
+      "description": "Get this value by running ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -170,7 +170,7 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜",
+      "value": "🤖",
       "required": true
     },
     "EMOJI_IN_HELP2": {
@@ -181,7 +181,7 @@
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
-      "required": false 
+      "required": true
     }
   },
   "addons": [
