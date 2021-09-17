@@ -39,13 +39,13 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "",
-      "required": false
+      "value": "@MYSTERIOUS_EMPIRE",
+      "required": true
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Its_LegendBot",
-      "required": false
+      "value: "",
+      "required": true
     },
     "BOY_OR_GIRL": {
       "description": "Set If U are Boy Or Girl",
