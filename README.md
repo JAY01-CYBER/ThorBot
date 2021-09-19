@@ -53,7 +53,7 @@
 
 ### StringSession
 
-[STRING SESSION](https://repl.it/@KrishnaJaiswal1/MYSTERIOUSBOT#main.py
+[STRING SESSION](https://repl.it/@KrishnaJaiswal1/MYSTERIOUSBOT#main.py)
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -61,7 +61,7 @@
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+<h1 align="center">TO HOST MYSTERIOUS LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
 <h2 align="center"> <a href="https://github.com/MYSTERIOUS-OS/MYSTERIOUSUSERBOT">⚡ MYSTERIOUSBOT ⚡</a></h2>
 
