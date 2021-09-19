@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
+      "description": "Fill your Full name. By default it is MysteriousBoy User",
       "value": "MysteriousBoy 🇮🇳",
       "required": false
     },
@@ -52,14 +52,14 @@
       "value": "BOY",
       "required": false
     },
-    "OP_PIC": {
+    "HELP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://telegra.ph/file/5e66683ac69bff17fc2b6.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "",
+      "value": "https://telegra.ph/file/5e66683ac69bff17fc2b6.jpg",
       "required": true
     },
     "BIO_MSG": {
