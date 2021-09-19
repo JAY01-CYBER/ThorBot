@@ -54,7 +54,7 @@
     },
     "HELP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "https://telegra.ph/file/5e66683ac69bff17fc2b6.jpg",
+      "value": "https://telegra.ph/file/f53f59626f3c53d935108.jpg",
       "required": true
     },
     "ALIVE_PIC": {
